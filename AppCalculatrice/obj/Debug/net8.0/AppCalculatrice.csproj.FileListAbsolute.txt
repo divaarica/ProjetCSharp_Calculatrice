@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\bin\Debug\net8.0\AppCalculatrice.exe
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\bin\Debug\net8.0\AppCalculatrice.deps.json
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\bin\Debug\net8.0\AppCalculatrice.runtimeconfig.json
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\bin\Debug\net8.0\AppCalculatrice.dll
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\bin\Debug\net8.0\AppCalculatrice.pdb
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.AssemblyInfo.cs
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.dll
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\refint\AppCalculatrice.dll
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.pdb
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\AppCalculatrice.genruntimeconfig.cache
+C:\Users\user\source\repos\LpGLISI2023\AppCalculatrice\obj\Debug\net8.0\ref\AppCalculatrice.dll
